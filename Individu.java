@@ -1,3 +1,4 @@
+
 public class Individu{
 
     private int idInd;
